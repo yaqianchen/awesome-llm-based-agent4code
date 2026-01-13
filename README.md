@@ -71,18 +71,18 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - **CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology** (2024-02-02) [[Paper](https://arxiv.org/abs/2402.01411)] 
 - **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)] [[GitHub](https://github.com/sfu-db/CleanAgent)] ⭐ 70+
 - **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)] [[GitHub](https://github.com/paivalucass/SOEN-TAES)] 
-- **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)] [[GitHub](https://github.com/MAGIS-MARL/MAGIS)] ⭐ 100+
-- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)] [[GitHub](https://github.com/OpenAgentX/AgentX)] ⭐ 100+
-- **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/AutoCodeRoverSG/auto-code-rover)] ⭐ 2.9k+
+- **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)] 
+- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)] [[GitHub](https://github.com/OpenAgentX/AgentX)] ⭐ 21
+- **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/AutoCodeRoverSG/auto-code-rover)] ⭐ 3k+
 - **MARE: Multi-Agents Collaboration Framework for Requirements Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.03256)] 
-- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.15793)] [[GitHub](https://github.com/SWE-agent/SWE-agent)] ⭐ 16k+
-- **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving** (2024-05-18) [[Paper](https://arxiv.org/abs/2405.11403)] [[GitHub](https://github.com/Md-Ashraful-Pramanik/MapCoder)] ⭐ 200+
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.15793)] [[GitHub](https://github.com/SWE-agent/SWE-agent)] ⭐ 18k+
+- **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving** (2024-05-18) [[Paper](https://arxiv.org/abs/2405.11403)] [[GitHub](https://github.com/Md-Ashraful-Pramanik/MapCoder)] ⭐ 183
 - **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology** (2024-06-16)  [[Paper](https://arxiv.org/abs/2406.11912)] [[GitHub](https://github.com/FSoft-AI4Code/AgileCoder)] ⭐ 400+
-- **Agentless: Demystifying LLM-based Software Engineering Agents** (2024-07-01) [[Paper](https://arxiv.org/abs/2407.01489)] [[GitHub](https://github.com/OpenAutoCoder/Agentless)] ⭐ 2.7k+
-- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** (2024-07-23) [[Paper](https://arxiv.org/abs/2407.16741)] [[GitHub](https://github.com/All-Hands-AI/OpenHands)] ⭐ 62k+
-- **VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool** (2024-08-15) [[Paper](https://arxiv.org/abs/2408.08927)] [[GitHub](https://github.com/NVlabs/VerilogCoder)] ⭐ 200+
-- **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** (2024-09-08) [[Paper](https://arxiv.org/abs/2409.05001)] [[GitHub](https://github.com/NEUIR/PairCoder)] ⭐ 50+
-- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale** (2024-09-09)[[Paper](https://arxiv.org/abs/2409.16299)] [[GitHub](https://github.com/FSoft-AI4Code/HyperAgent)] ⭐ 200+
+- **Agentless: Demystifying LLM-based Software Engineering Agents** (2024-07-01) [[Paper](https://arxiv.org/abs/2407.01489)] [[GitHub](https://github.com/OpenAutoCoder/Agentless)] ⭐ 2k+
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** (2024-07-23) [[Paper](https://arxiv.org/abs/2407.16741)] [[GitHub](https://github.com/All-Hands-AI/OpenHands)] ⭐ 66k+
+- **VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool** (2024-08-15) [[Paper](https://arxiv.org/abs/2408.08927)] [[GitHub](https://github.com/NVlabs/VerilogCoder)] ⭐ 95
+- **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** (2024-09-08) [[Paper](https://arxiv.org/abs/2409.05001)] [[GitHub](https://github.com/nju-websoft/PairCoder)] ⭐ 112
+- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale** (2024-09-09)[[Paper](https://arxiv.org/abs/2409.16299)] [[GitHub](https://github.com/FSoft-AI4Code/HyperAgent)] ⭐ 226
 - **AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing** (2024-09-16) [[Paper](https://arxiv.org/abs/2409.10737)] 
 - **Self-Evolving Multi-Agent Collaboration Networks for Software Development** (2024-10-22) [[Paper](https://arxiv.org/html/2410.16946v1)] 
 - **MAGE: A Multi-Agent Engine for Automated RTL Code Generation** (2024-12-10) [[Paper](https://arxiv.org/abs/2412.07822)] 
