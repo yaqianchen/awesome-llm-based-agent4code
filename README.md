@@ -43,7 +43,7 @@ A curated list of awesome LLM-based agents for code generation, including papers
 - **LeDex: Training LLMs to Better Self-Debug and Explain Code** (2024-05-28) [[Paper](https://arxiv.org/abs/2405.18649)] 
 - **CodeNav: Beyond tool-use to using real-world codebases with LLM agents** (2024-06-18) [[Paper](https://arxiv.org/abs/2406.12276)] 
 - **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] [[GitHub](https://github.com/scaleapi/plansearch)] ⭐ 42
-- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] [[GitHub](https://github.com/aorwall/moatless-tree-search)] ⭐ 1.5k+
+- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] [[GitHub](https://github.com/aorwall/moatless-tree-search)] ⭐ 129
 - **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
 - **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] 
 - **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
@@ -51,7 +51,7 @@ A curated list of awesome LLM-based agents for code generation, including papers
 ### 2025 (Up to June)
 - **Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation** (2025-01-28) [[Paper](https://arxiv.org/abs/2501.16692)] 
 - **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] 
-- **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] [[GitHub](https://github.com/WecoAI/aideml)] ⭐ 2.1k+
+- **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] [[GitHub](https://github.com/WecoAI/aideml)] ⭐ 1.1k+
 - **DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal** (2025-03-18) [[Paper](https://arxiv.org/abs/2503.14269)] 
 - **CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision** (2025-03-26) [[Paper](https://arxiv.org/abs/2503.20840)] 
 - **CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation** (2025-04-14) [[Paper](https://arxiv.org/abs/2504.10046)] 
@@ -61,16 +61,16 @@ A curated list of awesome LLM-based agents for code generation, including papers
 ## 👥 Multi-Agent Methods
 
 ### 2023
-- **Self-collaboration Code Generation via ChatGPT** (2023-04-15) [[Paper](https://arxiv.org/abs/2304.07590)] [[GitHub](https://github.com/YihongDong/Self-collaboration-Code-Generation)] ⭐ 200+
-- **ChatDev: Communicative Agents for Software Development** (2023-07-16) [[Paper](https://arxiv.org/abs/2307.07924)] [[GitHub](https://github.com/OpenBMB/ChatDev)] ⭐ 26k+
-- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** (2023-08-01) [[Paper](https://arxiv.org/abs/2308.00352)] [[GitHub](https://github.com/geekan/MetaGPT)] ⭐ 57k+
+- **Self-collaboration Code Generation via ChatGPT** (2023-04-15) [[Paper](https://arxiv.org/abs/2304.07590)] [[GitHub](https://github.com/YihongDong/Self-collaboration-Code-Generation)] ⭐ 23
+- **ChatDev: Communicative Agents for Software Development** (2023-07-16) [[Paper](https://arxiv.org/abs/2307.07924)] [[GitHub](https://github.com/OpenBMB/ChatDev)] ⭐ 28.5k+
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** (2023-08-01) [[Paper](https://arxiv.org/abs/2308.00352)] [[GitHub](https://github.com/geekan/MetaGPT)] ⭐ 62+
 - **GameGPT: Multi-agent Collaborative Framework for Game Development** (2023-10-12) [[Paper](https://arxiv.org/abs/2310.08067)] 
-- **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation** (2023-12-20) [[Paper](https://arxiv.org/abs/2312.13010)] [[GitHub](https://github.com/huangd1999/AgentCoder)] ⭐ 400+
+- **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation** (2023-12-20) [[Paper](https://arxiv.org/abs/2312.13010)] [[GitHub](https://github.com/huangd1999/AgentCoder)] ⭐ 370+
 
 ### 2024
 - **CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology** (2024-02-02) [[Paper](https://arxiv.org/abs/2402.01411)] 
-- **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)] [[GitHub](https://github.com/sfu-db/CleanAgent)] ⭐ 50+
-- **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)] [[GitHub](https://github.com/FSoft-AI4Code/SOEN-101)] ⭐ 50+
+- **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)] [[GitHub](https://github.com/sfu-db/CleanAgent)] ⭐ 70+
+- **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)] [[GitHub](https://github.com/paivalucass/SOEN-TAES)] 
 - **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)] [[GitHub](https://github.com/MAGIS-MARL/MAGIS)] ⭐ 100+
 - **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)] [[GitHub](https://github.com/OpenAgentX/AgentX)] ⭐ 100+
 - **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/AutoCodeRoverSG/auto-code-rover)] ⭐ 2.9k+
