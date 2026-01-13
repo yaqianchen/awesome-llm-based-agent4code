@@ -50,7 +50,7 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 ### 2025 (Up to June)
 - **Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation** (2025-01-28) [[Paper](https://arxiv.org/abs/2501.16692)] 
-- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] 
+- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] [[GitHub](https://github.com/ucsb-mlsec/PatchPilot)] ⭐ 17
 - **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] [[GitHub](https://github.com/WecoAI/aideml)] ⭐ 1.1k+
 - **DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal** (2025-03-18) [[Paper](https://arxiv.org/abs/2503.14269)] 
 - **CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision** (2025-03-26) [[Paper](https://arxiv.org/abs/2503.20840)] 
