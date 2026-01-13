@@ -19,29 +19,30 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 ### 2023
 - **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)] 
-- **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)] ⭐ 1.8k+
+- **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)] ⭐ 769
 - **Teaching Large Language Models to Self-Debug** (2023-04-11) [[Paper](https://arxiv.org/abs/2304.05128)] 
 - **ToolCoder: Teach Code Generation Models to use API search tools** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04032)] 
 - **Self-Edit: Fault-Aware Code Editor for Code Generation** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04087)] 
 - **Is Self-Repair a Silver Bullet for Code Generation?** (2023-06-16) [[Paper](https://arxiv.org/abs/2306.09896)] 
 - **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** (2023-07-24) [[Paper](https://arxiv.org/abs/2307.12856)] 
 - **CodePlan: Repository-level Coding using LLMs and Planning** (2023-09-21) [[Paper](https://arxiv.org/abs/2309.12499)] 
-- **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)] [[GitHub](https://github.com/samholt/L2MAC)] ⭐ 500+
-- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)] [[GitHub](https://github.com/lapisrocks/LanguageAgentTreeSearch)] ⭐ 1.7k+
-- **Lemur: Harmonizing Natural Language and Code for Language Agents** (2023-10-10) [[Paper](https://arxiv.org/abs/2310.06830)] [[GitHub](https://github.com/OpenLemur/Lemur)] ⭐ 1.1k+
-- **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)] [[GitHub](https://github.com/SalesforceAIResearch/CodeChain)] ⭐ 200+
+- **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)] [[GitHub](https://github.com/samholt/L2MAC)] ⭐ 145
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)] [[GitHub](https://github.com/lapisrocks/LanguageAgentTreeSearch)] ⭐ 812
+- **Lemur: Harmonizing Natural Language and Code for Language Agents** (2023-10-10) [[Paper](https://arxiv.org/abs/2310.06830)] [[GitHub](https://github.com/OpenLemur/Lemur)] ⭐ 555
+- **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)] [[GitHub](https://github.com/SalesforceAIResearch/CodeChain)] ⭐ 48
+- 
 - **A Self-Iteration Code Generation Method Based on Large Language Models** (2023-12-17) [[Paper](https://ieeexplore.ieee.org/abstract/document/10476069)] 
 
 ### 2024
 - **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** (2024-01-14) [[Paper](https://arxiv.org/abs/2401.07339)] 
 - **Knowledge-Aware Code Generation with Large Language Models** (2024-01-29) [[Paper](https://arxiv.org/abs/2401.15940)] 
-- **Executable Code Actions Elicit Better LLM Agents** (2024-02-01) [[Paper](https://arxiv.org/abs/2402.01030)] [[GitHub](https://github.com/xingyaoww/code-act)] ⭐ 500+
+- **Executable Code Actions Elicit Better LLM Agents** (2024-02-01) [[Paper](https://arxiv.org/abs/2402.01030)] [[GitHub](https://github.com/xingyaoww/code-act)] ⭐ 1.5k
 - **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair** (2024-03-25) [[Paper](https://arxiv.org/abs/2403.17134)] 
-- **AnalogCoder: Analog Circuit Design via Training-Free Code Generation** (2024-05-23) [[Paper](https://arxiv.org/abs/2405.14918)] [[GitHub](https://github.com/anonyanalog/AnalogCoder)] ⭐ 100+
+- **AnalogCoder: Analog Circuit Design via Training-Free Code Generation** (2024-05-23) [[Paper](https://arxiv.org/abs/2405.14918)] [[GitHub](https://github.com/laiyao1/AnalogCoder)] ⭐ 100+
 - **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search** (2024-05-24)[[Paper](https://arxiv.org/abs/2405.15383)] 
 - **LeDex: Training LLMs to Better Self-Debug and Explain Code** (2024-05-28) [[Paper](https://arxiv.org/abs/2405.18649)] 
 - **CodeNav: Beyond tool-use to using real-world codebases with LLM agents** (2024-06-18) [[Paper](https://arxiv.org/abs/2406.12276)] 
-- **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] [[GitHub](https://github.com/OSU-NLP-Group/PLANSEARCH)] ⭐ 100+
+- **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] [[GitHub](https://github.com/scaleapi/plansearch)] ⭐ 42
 - **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] [[GitHub](https://github.com/aorwall/moatless-tree-search)] ⭐ 1.5k+
 - **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
 - **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] 
