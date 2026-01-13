@@ -16,148 +16,86 @@ A curated list of awesome LLM-based agents for code generation, including papers
 
 
 ## 🤖 Single-Agent Methods 
+## 🤖 Single-Agent Methods 
 
 ### 2023
-- **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)]
-- **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)]
-- **Teaching Large Language Models to Self-Debug** (2023-04-11) [[Paper](https://arxiv.org/abs/2304.05128)]
-- **ToolCoder: Teach Code Generation Models to use API search tools** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04032)]
-- **Self-Edit: Fault-Aware Code Editor for Code Generation** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04087)]
-- **Is Self-Repair a Silver Bullet for Code Generation?** (2023-06-16) [[Paper](https://arxiv.org/abs/2306.09896)]
-
-- **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** (2023-07-24) [[Paper](https://arxiv.org/abs/2307.12856)]
-
-- **CodePlan: Repository-level Coding using LLMs and Planning** (2023-09-21) [[Paper](https://arxiv.org/abs/2309.12499)]
-
-- **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)]
-- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)]
-
-- **Lemur: Harmonizing Natural Language and Code for Language Agents** (2023-10-10) [[Paper](https://arxiv.org/abs/2310.06830)]
-
-- **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)]
-- **A Self-Iteration Code Generation Method Based on Large Language Models** (2023-12-17) [[Paper](https://ieeexplore.ieee.org/abstract/document/10476069)]
+- **Self-planning Code Generation with Large Language Models.** (2023-03-12)  [[Paper](https://arxiv.org/abs/2303.06689)] [[GitHub]()] ⭐ 
+- **Self-Refine: Iterative Refinement with Self-Feedback.**(2023-03-30)  [[Paper](https://arxiv.org/abs/2303.17651)] [[GitHub](https://github.com/madaan/self-refine)] ⭐ 1.8k+
+- **Teaching Large Language Models to Self-Debug** (2023-04-11) [[Paper](https://arxiv.org/abs/2304.05128)] [[GitHub]()] ⭐ 
+- **ToolCoder: Teach Code Generation Models to use API search tools** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04032)] [[GitHub]()] ⭐ 
+- **Self-Edit: Fault-Aware Code Editor for Code Generation** (2023-05-06) [[Paper](https://arxiv.org/abs/2305.04087)] [[GitHub]()] ⭐ 
+- **Is Self-Repair a Silver Bullet for Code Generation?** (2023-06-16) [[Paper](https://arxiv.org/abs/2306.09896)] [[GitHub]()] ⭐ 
+- **A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis** (2023-07-24) [[Paper](https://arxiv.org/abs/2307.12856)] [[GitHub]()] ⭐ 
+- **CodePlan: Repository-level Coding using LLMs and Planning** (2023-09-21) [[Paper](https://arxiv.org/abs/2309.12499)] [[GitHub]()] ⭐ 
+- **L2MAC: Large Language Model Automatic Computer for Extensive Code Generation** (2023-10-02) [[Paper](https://arxiv.org/abs/2310.02003)] [[GitHub](https://github.com/samholt/L2MAC)] ⭐ 500+
+- **Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models** (2023-10-06) [[Paper](https://arxiv.org/abs/2310.04406)] [[GitHub](https://github.com/lapisrocks/LanguageAgentTreeSearch)] ⭐ 1.7k+
+- **Lemur: Harmonizing Natural Language and Code for Language Agents** (2023-10-10) [[Paper](https://arxiv.org/abs/2310.06830)] [[GitHub](https://github.com/OpenLemur/Lemur)] ⭐ 1.1k+
+- **CodeChain: Towards Modular Code Generation Through Chain of Self-revisions with Representative Sub-modules** (2023-10-13) [[Paper](https://arxiv.org/abs/2310.08992)] [[GitHub](https://github.com/SalesforceAIResearch/CodeChain)] ⭐ 200+
+- **A Self-Iteration Code Generation Method Based on Large Language Models** (2023-12-17) [[Paper](https://ieeexplore.ieee.org/abstract/document/10476069)] [[GitHub]()] ⭐ 
 
 ### 2024
-- **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** (2024-01-14) [[Paper](https://arxiv.org/abs/2401.07339)]
-- **Knowledge-Aware Code Generation with Large Language Models** (2024-01-29) [[Paper](https://arxiv.org/abs/2401.15940)]
-- **Executable Code Actions Elicit Better LLM Agents** (2024-02-01) [[Paper](https://arxiv.org/abs/2402.01030)]
-
-- **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair** (2024-03-25) [[Paper](https://arxiv.org/abs/2403.17134)]
-
-
-- **AnalogCoder: Analog Circuit Design via Training-Free Code Generation** (2024-05-23) [[Paper](https://arxiv.org/abs/2405.14918)]
-
-- **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search** (2024-05-24)[[Paper](https://arxiv.org/abs/2405.15383)] 
-
-- **LeDex: Training LLMs to Better Self-Debug and Explain Code** (2024-05-28) [[Paper](https://arxiv.org/abs/2405.18649)] 
-
-
-- **CodeNav: Beyond tool-use to using real-world codebases with LLM agents** (2024-06-18) [[Paper](https://arxiv.org/abs/2406.12276)] 
-
-
-- **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] 
-
-
-- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] 
-
-- **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] 
-
-
-- **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] 
-
-
-- **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] 
+- **CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges** (2024-01-14) [[Paper](https://arxiv.org/abs/2401.07339)] [[GitHub]()] ⭐ 
+- **Knowledge-Aware Code Generation with Large Language Models** (2024-01-29) [[Paper](https://arxiv.org/abs/2401.15940)] [[GitHub]()] ⭐ 
+- **Executable Code Actions Elicit Better LLM Agents** (2024-02-01) [[Paper](https://arxiv.org/abs/2402.01030)] [[GitHub](https://github.com/xingyaoww/code-act)] ⭐ 500+
+- **RepairAgent: An Autonomous, LLM-Based Agent for Program Repair** (2024-03-25) [[Paper](https://arxiv.org/abs/2403.17134)] [[GitHub]()] ⭐ 
+- **AnalogCoder: Analog Circuit Design via Training-Free Code Generation** (2024-05-23) [[Paper](https://arxiv.org/abs/2405.14918)] [[GitHub](https://github.com/anonyanalog/AnalogCoder)] ⭐ 100+
+- **Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search** (2024-05-24)[[Paper](https://arxiv.org/abs/2405.15383)] [[GitHub]()] ⭐ 
+- **LeDex: Training LLMs to Better Self-Debug and Explain Code** (2024-05-28) [[Paper](https://arxiv.org/abs/2405.18649)] [[GitHub]()] ⭐ 
+- **CodeNav: Beyond tool-use to using real-world codebases with LLM agents** (2024-06-18) [[Paper](https://arxiv.org/abs/2406.12276)] [[GitHub]()] ⭐ 
+- **Planning In Natural Language Improves LLM Search For Code Generation** (2024-09-05) [[Paper](https://arxiv.org/abs/2409.03733)] [[GitHub](https://github.com/OSU-NLP-Group/PLANSEARCH)] ⭐ 100+
+- **SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement** (2024-10-26)[[Paper](https://arxiv.org/abs/2410.20285)] [[GitHub](https://github.com/aorwall/moatless-tree-search)] ⭐ 1.5k+
+- **CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models** (2024-11-07) [[Paper](https://arxiv.org/abs/2411.04329)] [[GitHub]()] ⭐ 
+- **ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation** (2024-11-11)[[Paper](https://arxiv.org/abs/2411.07112)] [[GitHub]()] ⭐ 
+- **Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling** (2024-12-19)[[Paper](https://arxiv.org/abs/2412.15305)] [[GitHub]()] ⭐ 
 
 ### 2025 (Up to June)
-
-
-- **Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation** (2025-01-28) [[Paper](https://arxiv.org/abs/2501.16692)] 
-
-- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] 
-
-
-- **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] 
-- **DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal** (2025-03-18) [[Paper](https://arxiv.org/abs/2503.14269)] 
-- **CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision** (2025-03-26) [[Paper](https://arxiv.org/abs/2503.20840)] 
-- **CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation** (2025-04-14) [[Paper](https://arxiv.org/abs/2504.10046)] 
-
-
-- **Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13652)] 
-
-- **cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree** (2025-06-18)[[Paper](https://arxiv.org/abs/2506.15655)]  
+- **Optimizing Code Runtime Performance through Context-Aware Retrieval-Augmented Generation** (2025-01-28) [[Paper](https://arxiv.org/abs/2501.16692)] [[GitHub]()] ⭐ 
+- **PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification** (2025-02-04)[[Paper](https://arxiv.org/abs/2502.02747)] [[GitHub]()] ⭐ 
+- **AIDE: AI-Driven Exploration in the Space of Code** (2025-02-18) [[Paper](https://arxiv.org/abs/2502.13138)] [[GitHub](https://github.com/WecoAI/aideml)] ⭐ 2.1k+
+- **DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal** (2025-03-18) [[Paper](https://arxiv.org/abs/2503.14269)] [[GitHub]()] ⭐ 
+- **CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision** (2025-03-26) [[Paper](https://arxiv.org/abs/2503.20840)] [[GitHub]()] ⭐ 
+- **CodeRAG: Supportive Code Retrieval on Bigraph for Real-World Code Generation** (2025-04-14) [[Paper](https://arxiv.org/abs/2504.10046)] [[GitHub]()] ⭐ 
+- **Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13652)] [[GitHub]()] ⭐ 
+- **cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree** (2025-06-18)[[Paper](https://arxiv.org/abs/2506.15655)] [[GitHub]()] ⭐ 
 
 ## 👥 Multi-Agent Methods
 
 ### 2023
-- **Self-collaboration Code Generation via ChatGPT** (2023-04-15) [[Paper](https://arxiv.org/abs/2304.07590)]  
-- **ChatDev: Communicative Agents for Software Development** (2023-07-16) [[Paper](https://arxiv.org/abs/2307.07924)]
-
-- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** (2023-08-01) [[Paper](https://arxiv.org/abs/2308.00352)]
-
-
-- **GameGPT: Multi-agent Collaborative Framework for Game Development** (2023-10-12) [[Paper](https://arxiv.org/abs/2310.08067)]
-- **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation** (2023-12-20) [[Paper](https://arxiv.org/abs/2312.13010)]
+- **Self-collaboration Code Generation via ChatGPT** (2023-04-15) [[Paper](https://arxiv.org/abs/2304.07590)] [[GitHub](https://github.com/YihongDong/Self-collaboration-Code-Generation)] ⭐ 200+
+- **ChatDev: Communicative Agents for Software Development** (2023-07-16) [[Paper](https://arxiv.org/abs/2307.07924)] [[GitHub](https://github.com/OpenBMB/ChatDev)] ⭐ 26k+
+- **MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework** (2023-08-01) [[Paper](https://arxiv.org/abs/2308.00352)] [[GitHub](https://github.com/geekan/MetaGPT)] ⭐ 57k+
+- **GameGPT: Multi-agent Collaborative Framework for Game Development** (2023-10-12) [[Paper](https://arxiv.org/abs/2310.08067)] [[GitHub]()] ⭐ 
+- **AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation** (2023-12-20) [[Paper](https://arxiv.org/abs/2312.13010)] [[GitHub](https://github.com/huangd1999/AgentCoder)] ⭐ 400+
 
 ### 2024
-
-- **CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology** (2024-02-02) [[Paper](https://arxiv.org/abs/2402.01411)]
-
-- **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)]
-
-- **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)]
-
-- **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)]
-
-- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)]
-
-- **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)]
-
-- **MARE: Multi-Agents Collaboration Framework for Requirements Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.03256)]
-
-- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.15793)]
-
-- **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving** (2024-05-18) [[Paper](https://arxiv.org/abs/2405.11403)]
-
-- **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology** (2024-06-16)  [[Paper](https://arxiv.org/abs/2406.11912)] 
-
-- **Agentless: Demystifying LLM-based Software Engineering Agents** (2024-07-01) [[Paper](https://arxiv.org/abs/2407.01489)] 
-
-- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** (2024-07-23) [[Paper](https://arxiv.org/abs/2407.16741)] 
-- **VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool** (2024-08-15) [[Paper](https://arxiv.org/abs/2408.08927)] 
-
-- **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** (2024-09-08) [[Paper](https://arxiv.org/abs/2409.05001)] 
-
-- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale** (2024-09-09)[[Paper](https://arxiv.org/abs/2409.16299)] 
-
-- **AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing** (2024-09-16) [[Paper](https://arxiv.org/abs/2409.10737)] 
-
-
-- **Self-Evolving Multi-Agent Collaboration Networks for Software Development** (2024-10-22) [[Paper](https://arxiv.org/html/2410.16946v1)] 
-
-
-
-- **MAGE: A Multi-Agent Engine for Automated RTL Code Generation** (2024-12-10) [[Paper](https://arxiv.org/abs/2412.07822)] 
-
-
-
+- **CodePori: Large-Scale System for Autonomous Software Development Using Multi-Agent Technology** (2024-02-02) [[Paper](https://arxiv.org/abs/2402.01411)] [[GitHub]()] ⭐ 
+- **CleanAgent: Automating Data Standardization with LLM-based Agents** (2024-03-13) [[Paper](https://arxiv.org/abs/2403.08291)] [[GitHub](https://github.com/sfu-db/CleanAgent)] ⭐ 50+
+- **SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents** (2024-03-23) [[Paper](https://arxiv.org/html/2403.15852v2)] [[GitHub](https://github.com/FSoft-AI4Code/SOEN-101)] ⭐ 50+
+- **MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution** (2024-03-26) [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d1f02132ef51602adf07000ca5b6138-Abstract-Conference.html)] [[GitHub](https://github.com/MAGIS-MARL/MAGIS)] ⭐ 100+
+- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** (2024-04-02) [[Paper](https://arxiv.org/abs/2404.02183)] [[GitHub](https://github.com/OpenAgentX/AgentX)] ⭐ 100+
+- **AutoCodeRover: Autonomous Program Improvement** (2024-04-08) [[Paper](https://arxiv.org/abs/2404.05427)] [[GitHub](https://github.com/AutoCodeRoverSG/auto-code-rover)] ⭐ 2.9k+
+- **MARE: Multi-Agents Collaboration Framework for Requirements Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.03256)] [[GitHub]()] ⭐ 
+- **SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering** (2024-05-06) [[Paper](https://arxiv.org/abs/2405.15793)] [[GitHub](https://github.com/SWE-agent/SWE-agent)] ⭐ 16k+
+- **MapCoder: Multi-Agent Code Generation for Competitive Problem Solving** (2024-05-18) [[Paper](https://arxiv.org/abs/2405.11403)] [[GitHub](https://github.com/Md-Ashraful-Pramanik/MapCoder)] ⭐ 200+
+- **AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology** (2024-06-16)  [[Paper](https://arxiv.org/abs/2406.11912)] [[GitHub](https://github.com/FSoft-AI4Code/AgileCoder)] ⭐ 400+
+- **Agentless: Demystifying LLM-based Software Engineering Agents** (2024-07-01) [[Paper](https://arxiv.org/abs/2407.01489)] [[GitHub](https://github.com/OpenAutoCoder/Agentless)] ⭐ 2.7k+
+- **OpenHands: An Open Platform for AI Software Developers as Generalist Agents** (2024-07-23) [[Paper](https://arxiv.org/abs/2407.16741)] [[GitHub](https://github.com/All-Hands-AI/OpenHands)] ⭐ 62k+
+- **VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning and Abstract Syntax Tree (AST)-based Waveform Tracing Tool** (2024-08-15) [[Paper](https://arxiv.org/abs/2408.08927)] [[GitHub](https://github.com/NVlabs/VerilogCoder)] ⭐ 200+
+- **A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement** (2024-09-08) [[Paper](https://arxiv.org/abs/2409.05001)] [[GitHub](https://github.com/NEUIR/PairCoder)] ⭐ 50+
+- **HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale** (2024-09-09)[[Paper](https://arxiv.org/abs/2409.16299)] [[GitHub](https://github.com/FSoft-AI4Code/HyperAgent)] ⭐ 200+
+- **AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing** (2024-09-16) [[Paper](https://arxiv.org/abs/2409.10737)] [[GitHub]()] ⭐ 
+- **Self-Evolving Multi-Agent Collaboration Networks for Software Development** (2024-10-22) [[Paper](https://arxiv.org/html/2410.16946v1)] [[GitHub]()] ⭐ 
+- **MAGE: A Multi-Agent Engine for Automated RTL Code Generation** (2024-12-10) [[Paper](https://arxiv.org/abs/2412.07822)] [[GitHub]()] ⭐ 
 
 ### 2025
-
-- **CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation** (2025-01-14) [[Paper](https://arxiv.org/abs/2501.07811)] 
-
-- **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks** (2025-01-20) [[Paper](https://arxiv.org/abs/2501.17167)] 
-
-- **Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation** (2025-01-30) [[Paper](https://arxiv.org/abs/2501.18653)] 
-
-- **CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging** (2025-02-08) [[Paper](https://arxiv.org/abs/2502.05664)] 
-
-- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** (2025-02-10) [[Paper](https://arxiv.org/abs/2502.06994)] 
-
-- **MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing** (2025-05-06) [[Paper](https://arxiv.org/abs/2505.03906)] 
-
-- **Adversarial Reasoning for Repair Based on Inferred Program Intent** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13008)] 
-
-- **SEW: Self-Evolving Agentic Workflows for Automated Code Generation** (2025-05-24)[[Paper](https://arxiv.org/abs/2505.18646)] 
+- **CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation** (2025-01-14) [[Paper](https://arxiv.org/abs/2501.07811)] [[GitHub]()] ⭐ 
+- **QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks** (2025-01-20) [[Paper](https://arxiv.org/abs/2501.17167)] [[GitHub]()] ⭐ 
+- **Cogito, ergo sum: A Neurobiologically-Inspired Cognition-Memory-Growth System for Code Generation** (2025-01-30) [[Paper](https://arxiv.org/abs/2501.18653)] [[GitHub]()] ⭐ 
+- **CODESIM: Multi-Agent Code Generation and Problem Solving through Simulation-Driven Planning and Debugging** (2025-02-08) [[Paper](https://arxiv.org/abs/2502.05664)] [[GitHub]()] ⭐ 
+- **SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering** (2025-02-10) [[Paper](https://arxiv.org/abs/2502.06994)] [[GitHub]()] ⭐ 
+- **MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing** (2025-05-06) [[Paper](https://arxiv.org/abs/2505.03906)] [[GitHub]()] ⭐ 
+- **Adversarial Reasoning for Repair Based on Inferred Program Intent** (2025-05-19) [[Paper](https://arxiv.org/abs/2505.13008)] [[GitHub]()] ⭐ 
+- **SEW: Self-Evolving Agentic Workflows for Automated Code Generation** (2025-05-24)[[Paper](https://arxiv.org/abs/2505.18646)] [[GitHub]()] ⭐
 
 ## 🏆 Benchmarks
 
